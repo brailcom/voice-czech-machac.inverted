@@ -1,0 +1,4 @@
+*.group
+*.lpc
+*.res
+/festvox/czech_machac.scm
